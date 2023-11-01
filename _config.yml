@@ -30,7 +30,7 @@ twitter_username: dijkstrazz
 github_username:  zmzbj
 
 # Build settings
-theme: minima
+# theme: minima
 remote_theme: "mmistakes/made-mistakes"
 plugins:
   - jekyll-feed
