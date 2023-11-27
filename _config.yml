@@ -34,8 +34,8 @@ theme: minima
 plugins:
   - jekyll-feed
 
-# Google Analytics
-google_analytics: G-JPDJTM18X4
+# Fill in your Google Analytics tag ID (or "Measurement ID") to track your website usage
+gtag: "G-JPDJTM18X4"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
