@@ -71,7 +71,7 @@ comments:
     label: "comment" # Optional - must be existing label.
 author:
   name     : "zmzbj"
-  avatar   : "/assets/images/bio-photo.jpg"
+  avatar   : "/assets/images/bio-photo.webp"
   bio      : "My awesome biography constrained to a sentence or two goes here."
   location : "Somewhere, China"
 
