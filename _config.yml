@@ -24,12 +24,12 @@ email: dijkstrazz2023@gmail.com
 description: "程序员技术交流、心得体会，记录作为一名程序员的日常生活，兴趣所在，以及一些趣事"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://zmzbj.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-logo: "/assets/images/88x88.png"
+#logo: "/assets/images/88x88.png"
 
 # Build settings
 # theme: minima
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-minimal_mistakes_skin: "dirt"
+minimal_mistakes_skin: "contrast"
 search: true
 
 plugins:
