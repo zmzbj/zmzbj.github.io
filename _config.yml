@@ -30,8 +30,8 @@ github_username:  zmzbj
 # Build settings
 # theme: minima
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-minimal_mistakes_skin: "mauro" # "air"contrast", "aqua", "dirt", "sunrise", "dark", "default", "neon", "plum", "mint"
-search: true
+#minimal_mistakes_skin: "mauro" # "air"contrast", "aqua", "dirt", "sunrise", "dark", "default", "neon", "plum", "mint"
+#search: true
 
 plugins:
   - jekyll-feed
