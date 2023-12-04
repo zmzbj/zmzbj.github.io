@@ -23,7 +23,7 @@ name: zmzbj
 email: dijkstrazz2023@gmail.com
 description: "程序员技术交流、心得体会，记录作为一名程序员的日常生活，兴趣所在，以及一些趣事"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://zmzbj.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://blog.dijkstra.win" # the base hostname & protocol for your site, e.g. http://example.com
 #logo: "/assets/images/88x88.png"
 
 # Build settings
@@ -71,7 +71,7 @@ comments:
 author:
   name     : "zmzbj"
   avatar   : "/assets/images/bio-photo.webp"
-  bio      : "My awesome biography constrained to a sentence or two goes here."
+  bio      : "科班出身程序员，人到中年，写了10+年代码，还想一直写下去"
   location : "Somewhere, China"
 
 
